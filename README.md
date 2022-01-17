@@ -1,6 +1,4 @@
-Hi! My name is Michał Burdukiewicz<a href="https://orcid.org/0000-0001-8926-582X">
-    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" />    
-  </a> and I am passionate about bioinformatics and R.
+Hi! My name is Michał Burdukiewicz<a href="https://orcid.org/0000-0001-8926-582X"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"/></a> and I am passionate about bioinformatics and R.
 
 <p align='center'>
   
