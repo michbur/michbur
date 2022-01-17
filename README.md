@@ -16,7 +16,7 @@ Hi! My name is Michał Burdukiewicz<a href="https://orcid.org/0000-0001-8926-582
 My current projects:
 
  - [AmyloGraph](https://amylograph.com), a comprehensive database of amyloid-amyloid interactions.
- - [HaDeX](https://github.com/hadexversum), an integrated analytical tool for HDX-MS (maintainer [https://github.com/werpuc](Weronika Puchała)).
+ - [HaDeX](https://github.com/hadexversum), an integrated analytical tool for HDX-MS (maintainer [Weronika Puchała](https://github.com/werpuc)).
  
 
 I :heart: [R](https://cran.r-project.org/)!
