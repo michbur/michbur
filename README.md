@@ -1,4 +1,6 @@
-Hi! My name is Michał Burdukiewicz and I am passionate about bioinformatics and R.
+Hi! My name is Michał Burdukiewicz<a href="https://orcid.org/0000-0001-8926-582X">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" />    
+  </a> and I am passionate about bioinformatics and R.
 
 <p align='center'>
   
@@ -11,15 +13,12 @@ Hi! My name is Michał Burdukiewicz and I am passionate about bioinformatics and
   <a href="https://scholar.google.com/citations?hl=en&user=riuFKDkAAAAJ">
     <img src="https://img.shields.io/badge/google%20scholar-riuFKDkAAAAJ-green" />    
   </a>
-  <a href="https://orcid.org/0000-0001-8926-582X">
-    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" />    
-  </a>
-  
 </p>
 
 My current projects:
 
- - [HaDeX](https://github.com/hadexversum), a comprehensive analytical tool for HDX-MS (with [https://github.com/werpuc](Weronika Puchała), [https://github.com/KrystynaGrzesiak](Krystyna Grzesiak) and [https://github.com/DominikRafacz](Dominik Rafacz)).
+ - [AmyloGraph](https://github.com/KotulskaLab/AmyloGraph), a comprehensive database of amyloid-amyloid interactions.
+ - [HaDeX](https://github.com/hadexversum), an integrated analytical tool for HDX-MS (maintainer [https://github.com/werpuc](Weronika Puchała)).
+ 
 
-
-I :heart: ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+I :heart: [R](https://cran.r-project.org/)!
