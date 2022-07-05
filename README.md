@@ -17,6 +17,9 @@ My current projects:
 
  - [AmyloGraph](https://amylograph.com), a comprehensive database of amyloid-amyloid interactions.
  - [HaDeX](https://github.com/hadexversum), an integrated analytical tool for HDX-MS (maintainer [Weronika Puchała](https://github.com/werpuc)).
+ - [Negative data sampling](http://biogenies.info/NegativeDatasets/), where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data.
+ 
+ I am also maintaining the list of [machine learning models for prediction of peptide properties](https://github.com/BioGenies/peptide-prediction-list).
  
 
 I :heart: [R](https://cran.r-project.org/)!
