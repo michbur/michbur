@@ -19,7 +19,7 @@ My current projects:
  - [HaDeX](https://github.com/hadexversum), an integrated analytical tool for HDX-MS (maintainer [Weronika Puchała](https://github.com/werpuc)).
  - [Negative data sampling](http://biogenies.info/NegativeDatasets/), where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data.
  
- I am also maintaining the list of [machine learning models for prediction of peptide properties](https://github.com/BioGenies/peptide-prediction-list).
+ I am also maintaining the list of [machine learning models for prediction of peptide properties](biogenies.info/peptide-prediction-list/) (see also our [article on that](https://doi.org/10.1016/j.csbj.2022.11.043)).
  
 
 I :heart: [R](https://cran.r-project.org/)!
