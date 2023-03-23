@@ -15,9 +15,9 @@ Hi! My name is Michał Burdukiewicz<a href="https://orcid.org/0000-0001-8926-582
 
 My current projects:
 
- - [AmyloGraph](https://amylograph.com), a comprehensive database of amyloid-amyloid interactions.
+ - [AmyloGraph](https://amylograph.com), a comprehensive database of amyloid-amyloid interactions [doi:10.1093/nar/gkac882](https://doi.org/10.1093/nar/gkac882).
  - [HaDeX](https://github.com/hadexversum), an integrated analytical tool for HDX-MS (maintainer [Weronika Puchała](https://github.com/werpuc)).
- - [Negative data sampling](http://biogenies.info/NegativeDatasets/), where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data.
+ - [Negative data sampling](http://biogenies.info/NegativeDatasets/), where we show that benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data [doi:10.1093/bib/bbac343](https://doi.org/10.1093/bib/bbac343).
  
  I am also maintaining the list of [machine learning models for prediction of peptide properties](biogenies.info/peptide-prediction-list/) (see also our [article on that](https://doi.org/10.1016/j.csbj.2022.11.043)).
  
